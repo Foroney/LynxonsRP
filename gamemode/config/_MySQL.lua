@@ -1,0 +1,9 @@
+RP_MySQLConfig = {}
+RP_MySQLConfig.EnableMySQL = true
+RP_MySQLConfig.Host = "localhost"
+RP_MySQLConfig.Username = "root"
+RP_MySQLConfig.Password = "WuOx-LeV3-EAE7-KxjZC-L132"
+RP_MySQLConfig.Database_name = "lynxonsrp"
+RP_MySQLConfig.Database_port = 3306
+RP_MySQLConfig.Preferred_module = "mysqloo"
+RP_MySQLConfig.MultiStatements = false
