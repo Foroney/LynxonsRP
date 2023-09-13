@@ -1,0 +1,13 @@
+"lynxonsrp"
+{
+    "base"          "sandbox"
+    "title"         "Lynxons RP"
+    "version"       "0.3.0"
+    "category"      "rp"
+    "menusystem"    "1"
+    "maps"	    "^rp_"
+
+    "author_name"   "corp Underground Lynx"
+    "author_email"  "mail@ulynx.ru"
+    "author_url"    "https://vk.com/ulynx"
+}
